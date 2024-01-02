@@ -143,17 +143,7 @@
   },
   {
     "ModuleName": "PCPage/cellTypeSupportTab",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "Emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2024-01-02T18:18:53.2006292+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\cellTypeSupportTab.json",
-      "Pages\\cellTypeSupportTab.rd"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/TaborderAndContainer",
