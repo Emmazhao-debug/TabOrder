@@ -1,6 +1,6 @@
 [
   {
-    "ConnectionString": "PASSWORD=xA123456;DATA SOURCE=xa-dd3-fss19o19;USER ID=C##oracletest",
+    "ConnectionString": "USER ID=C##AutoTest;PASSWORD=xA20200326;DATA SOURCE=xa-dd3-fss19o19",
     "DataBaseType": "cbdb540e-ded5-415e-b8cd-5b1dba43a89e",
     "ID": "Oracle1"
   }
